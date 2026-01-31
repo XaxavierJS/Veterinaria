@@ -1,0 +1,152 @@
+[
+  {
+    "numero_ficha": "M001",
+    "nombre": "Luna",
+    "peso": 12.5,
+    "enfermedades": [],
+    "fechaNacimiento": "2019-05-15",
+    "especie": "Perro",
+    "raza": "Labrador",
+    "id_tutor": "T001"
+  },
+  {
+    "numero_ficha": "M002",
+    "nombre": "Simba",
+    "peso": 4.2,
+    "enfermedades": ["Alergia"],
+    "fechaNacimiento": "2020-08-22",
+    "especie": "Gato",
+    "raza": "Siamés",
+    "id_tutor": "T002"
+  },
+  {
+    "numero_ficha": "M003",
+    "nombre": "Nala",
+    "peso": 15.0,
+    "enfermedades": [],
+    "fechaNacimiento": "2018-11-10",
+    "especie": "Perro",
+    "raza": "Golden Retriever",
+    "id_tutor": "T003"
+  },
+  {
+    "numero_ficha": "M004",
+    "nombre": "Max",
+    "peso": 8.7,
+    "enfermedades": ["Obesidad"],
+    "fechaNacimiento": "2021-03-05",
+    "especie": "Perro",
+    "raza": "Bulldog",
+    "id_tutor": "T004"
+  },
+  {
+    "numero_ficha": "M005",
+    "nombre": "Bella",
+    "peso": 3.8,
+    "enfermedades": [],
+    "fechaNacimiento": "2022-07-12",
+    "especie": "Gato",
+    "raza": "Persa",
+    "id_tutor": "T005"
+  },
+  {
+    "numero_ficha": "M006",
+    "nombre": "Rocky",
+    "peso": 20.3,
+    "enfermedades": ["Artritis"],
+    "fechaNacimiento": "2017-09-30",
+    "especie": "Perro",
+    "raza": "Pastor Alemán",
+    "id_tutor": "T006"
+  },
+  {
+    "numero_ficha": "M007",
+    "nombre": "Daisy",
+    "peso": 6.1,
+    "enfermedades": [],
+    "fechaNacimiento": "2020-01-25",
+    "especie": "Conejo",
+    "raza": "Enano",
+    "id_tutor": "T007"
+  },
+  {
+    "numero_ficha": "M008",
+    "nombre": "Leo",
+    "peso": 10.5,
+    "enfermedades": ["Problemas dentales"],
+    "fechaNacimiento": "2019-12-18",
+    "especie": "Perro",
+    "raza": "Beagle",
+    "id_tutor": "T008"
+  },
+  {
+    "numero_ficha": "M009",
+    "nombre": "Coco",
+    "peso": 4.9,
+    "enfermedades": [],
+    "fechaNacimiento": "2021-06-03",
+    "especie": "Gato",
+    "raza": "Maine Coon",
+    "id_tutor": "T009"
+  },
+  {
+    "numero_ficha": "M010",
+    "nombre": "Milo",
+    "peso": 18.2,
+    "enfermedades": ["Problemas cardíacos"],
+    "fechaNacimiento": "2016-04-14",
+    "especie": "Perro",
+    "raza": "Boxer",
+    "id_tutor": "T010"
+  },
+  {
+    "numero_ficha": "M011",
+    "nombre": "Thor",
+    "peso": 25.0,
+    "enfermedades": [],
+    "fechaNacimiento": "2021-02-10",
+    "especie": "Perro",
+    "raza": "Husky Siberiano",
+    "id_tutor": "T001"
+  },
+  {
+    "numero_ficha": "M012",
+    "nombre": "Pelusa",
+    "peso": 3.5,
+    "enfermedades": ["Diabetes"],
+    "fechaNacimiento": "2018-07-20",
+    "especie": "Gato",
+    "raza": "Angora",
+    "id_tutor": "T001"
+  },
+  {
+    "numero_ficha": "M013",
+    "nombre": "Bruno",
+    "peso": 14.8,
+    "enfermedades": [],
+    "fechaNacimiento": "2020-11-05",
+    "especie": "Perro",
+    "raza": "Cocker Spaniel",
+    "id_tutor": "T002"
+  },
+  {
+    "numero_ficha": "M014",
+    "nombre": "Kira",
+    "peso": 22.0,
+    "enfermedades": ["Displasia de cadera"],
+    "fechaNacimiento": "2017-03-15",
+    "especie": "Perro",
+    "raza": "Pastor Alemán",
+    "id_tutor": "T003"
+  },
+  {
+    "numero_ficha": "M015",
+    "nombre": "Michi",
+    "peso": 5.2,
+    "enfermedades": [],
+    "fechaNacimiento": "2022-01-08",
+    "especie": "Gato",
+    "raza": "Mestizo",
+    "id_tutor": "T004"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id_tutor": "T001",
+    "nombre": "Juan Pérez",
+    "rut": "12.345.678-9",
+    "telefono": "+56 9 1234 5678",
+    "email": "juan.perez@email.com",
+    "direccion": "Av. Principal 123, Santiago"
+  },
+  {
+    "id_tutor": "T002",
+    "nombre": "María González",
+    "rut": "9.876.543-2",
+    "telefono": "+56 9 8765 4321",
+    "email": "maria.gonzalez@email.com",
+    "direccion": "Calle Los Aromos 456, Providencia"
+  },
+  {
+    "id_tutor": "T003",
+    "nombre": "Carlos López",
+    "rut": "11.222.333-4",
+    "telefono": "+56 9 1122 3344",
+    "email": "carlos.lopez@email.com",
+    "direccion": "Pasaje El Sol 789, Las Condes"
+  },
+  {
+    "id_tutor": "T004",
+    "nombre": "Ana Martínez",
+    "rut": "15.666.777-8",
+    "telefono": "+56 9 5566 7788",
+    "email": "ana.martinez@email.com",
+    "direccion": "Av. Las Flores 321, Ñuñoa"
+  },
+  {
+    "id_tutor": "T005",
+    "nombre": "Pedro Sánchez",
+    "rut": "8.999.000-1",
+    "telefono": "+56 9 8999 0001",
+    "email": "pedro.sanchez@email.com",
+    "direccion": "Calle Central 654, Maipú"
+  },
+  {
+    "id_tutor": "T006",
+    "nombre": "Laura Fernández",
+    "rut": "14.555.666-7",
+    "telefono": "+56 9 4555 6667",
+    "email": "laura.fernandez@email.com",
+    "direccion": "Av. Los Leones 987, Providencia"
+  },
+  {
+    "id_tutor": "T007",
+    "nombre": "Diego Ramírez",
+    "rut": "10.111.222-3",
+    "telefono": "+56 9 0111 2223",
+    "email": "diego.ramirez@email.com",
+    "direccion": "Pasaje Norte 147, La Florida"
+  },
+  {
+    "id_tutor": "T008",
+    "nombre": "Sofía Torres",
+    "rut": "16.444.555-6",
+    "telefono": "+56 9 6444 5556",
+    "email": "sofia.torres@email.com",
+    "direccion": "Calle Sur 258, Vitacura"
+  },
+  {
+    "id_tutor": "T009",
+    "nombre": "Andrés Muñoz",
+    "rut": "13.777.888-9",
+    "telefono": "+56 9 3777 8889",
+    "email": "andres.munoz@email.com",
+    "direccion": "Av. Poniente 369, San Miguel"
+  },
+  {
+    "id_tutor": "T010",
+    "nombre": "Valentina Rojas",
+    "rut": "17.333.444-5",
+    "telefono": "+56 9 7333 4445",
+    "email": "valentina.rojas@email.com",
+    "direccion": "Calle Oriente 741, Peñalolén"
+  }
+]

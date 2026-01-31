@@ -1,0 +1,41 @@
+{
+  "name": "veterinaria-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://XaxavierJS.github.io/VeterinariaMVP",
+  "scripts": {
+    "dev": "next dev -p 4000 --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next build",
+    "deploy": "npm run build && npx gh-pages -d out"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.4.0",
+    "@mui/lab": "^6.0.0-beta.23",
+    "@mui/material": "^6.4.0",
+    "@tabler/icons-react": "^3.28.1",
+    "@types/lodash": "^4.17.14",
+    "apexcharts": "^4.3.0",
+    "formik": "^2.4.6",
+    "lodash": "^4.17.21",
+    "next": "15.1.4",
+    "react": "^19.0.0",
+    "react-apexcharts": "^1.7.0",
+    "react-dom": "^19.0.0",
+    "veterinaria": "file:",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.4",
+    "typescript": "^5"
+  }
+}

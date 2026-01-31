@@ -1,0 +1,152 @@
+[
+    {
+        "id_cita": 1,
+        "tutor": {
+            "id_tutor": "T001",
+            "nombre": "Juan Pérez"
+        },
+        "mascota": {
+            "id_mascota": "M001",
+            "nombre": "Luna"
+        },
+        "motivo": "Consulta general",
+        "estado": "Aceptado",
+        "fecha": "25/10/2023",
+        "precio": 45000
+    },
+    {
+        "id_cita": 2,
+        "tutor": {
+            "id_tutor": "T002",
+            "nombre": "María González"
+        },
+        "mascota": {
+            "id_mascota": "M002",
+            "nombre": "Simba"
+        },
+        "motivo": "Vacunación anual",
+        "estado": "Pendiente",
+        "fecha": "12/11/2023",
+        "precio": 30000
+    },
+    {
+        "id_cita": 3,
+        "tutor": {
+            "id_tutor": "T003",
+            "nombre": "Carlos López"
+        },
+        "mascota": {
+            "id_mascota": "M003",
+            "nombre": "Nala"
+        },
+        "motivo": "Corte de uñas",
+        "estado": "Pagado",
+        "fecha": "05/09/2023",
+        "precio": 15000
+    },
+    {
+        "id_cita": 4,
+        "tutor": {
+            "id_tutor": "T004",
+            "nombre": "Ana Martínez"
+        },
+        "mascota": {
+            "id_mascota": "M004",
+            "nombre": "Max"
+        },
+        "motivo": "Limpieza dental",
+        "estado": "Cancelado",
+        "fecha": "18/08/2023",
+        "precio": 25000
+    },
+    {
+        "id_cita": 5,
+        "tutor": {
+            "id_tutor": "T005",
+            "nombre": "Pedro Sánchez"
+        },
+        "mascota": {
+            "id_mascota": "M005",
+            "nombre": "Bella"
+        },
+        "motivo": "Revisión post-operatoria",
+        "estado": "Aceptado",
+        "fecha": "03/07/2023",
+        "precio": 50000
+    },
+    {
+        "id_cita": 6,
+        "tutor": {
+            "id_tutor": "T006",
+            "nombre": "Laura Fernández"
+        },
+        "mascota": {
+            "id_mascota": "M006",
+            "nombre": "Rocky"
+        },
+        "motivo": "Control de peso",
+        "estado": "Pendiente",
+        "fecha": "22/12/2023",
+        "precio": 20000
+    },
+    {
+        "id_cita": 7,
+        "tutor": {
+            "id_tutor": "T007",
+            "nombre": "Diego Ramírez"
+        },
+        "mascota": {
+            "id_mascota": "M007",
+            "nombre": "Daisy"
+        },
+        "motivo": "Desparasitación",
+        "estado": "Pagado",
+        "fecha": "14/06/2023",
+        "precio": 18000
+    },
+    {
+        "id_cita": 8,
+        "tutor": {
+            "id_tutor": "T008",
+            "nombre": "Sofía Torres"
+        },
+        "mascota": {
+            "id_mascota": "M008",
+            "nombre": "Leo"
+        },
+        "motivo": "Consulta de emergencia",
+        "estado": "Aceptado",
+        "fecha": "30/01/2024",
+        "precio": 60000
+    },
+    {
+        "id_cita": 9,
+        "tutor": {
+            "id_tutor": "T009",
+            "nombre": "Javier Morales"
+        },
+        "mascota": {
+            "id_mascota": "M009",
+            "nombre": "Coco"
+        },
+        "motivo": "Cirugía menor",
+        "estado": "Cancelado",
+        "fecha": "10/02/2024",
+        "precio": 80000
+    },
+    {
+        "id_cita": 10,
+        "tutor": {
+            "id_tutor": "T010",
+            "nombre": "Valentina Silva"
+        },
+        "mascota": {
+            "id_mascota": "M010",
+            "nombre": "Milo"
+        },
+        "motivo": "Control de vacunas",
+        "estado": "Pendiente",
+        "fecha": "15/03/2024",
+        "precio": 22000
+    }
+]
