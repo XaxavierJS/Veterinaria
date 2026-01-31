@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const isProd = process.env.NODE_ENV === "production";
-const repoName = "VeterinariaMVP"; // Cambiar si el nombre del repo es diferente
+const repoName = "Veterinaria"; // Cambiar si el nombre del repo es diferente
 
 const nextConfig: NextConfig = {
   // Exportación estática para GitHub Pages
